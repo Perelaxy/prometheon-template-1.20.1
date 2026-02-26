@@ -3,9 +3,9 @@
 	"id": "prometheon",
 	"version": "${version}",
 	"name": "Prometheon",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Prometheon is a Topaz-powered crystal tech combat mod focused on high-intensity weapon systems and controlled overkill. Harness synthetic Topaz energy to fuel industrial-grade weapons built around heat management instead of ammo. Push your limits with sustained fire, precision sniper variants, and armor-corroding crystalline effects",
 	"authors": [
-		"Me!"
+		"Pozzums"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
